@@ -1,5 +1,5 @@
 <?php
 
-    echo "This is page 3";
+    echo "<h1>This is page 3</h1>";
 
  ?>
